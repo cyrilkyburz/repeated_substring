@@ -14,7 +14,7 @@ NOTE: The substrings can't be all spaces.
 
 ### INPUT SAMPLE:
 
-Your program should accept as its first argument a path to a filename. The input file contains several lines. Each line is one test case. Each line contains a test string. E.g.
+Your program should accept as its first argument a string/(more complex a path to a filename). The input string/file contains several lines. Each line is one test case. Each line contains a test string. E.g.
 
 ```
 banana
