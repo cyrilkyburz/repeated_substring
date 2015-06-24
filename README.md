@@ -1,7 +1,7 @@
 # Setup
 
 ```
-git clone url
+git clone https://github.com/cyrilkyburz/repeated_substring.git
 cd repeated_substring
 bundle install
 ```
