@@ -1,10 +1,10 @@
 # REPEATED SUBSTRING
 
-## Basis
+# Basis
 
 Small ruby gem, where the tests are already set up.
 
-## Task
+# Task
 
 Develop TDD with ruby.
 
@@ -12,7 +12,7 @@ You are to find the longest repeated substring in a given text. Repeated substri
 NOTE: The substrings can't be all spaces.
 
 
-### INPUT SAMPLE:
+## INPUT SAMPLE:
 
 Your program should accept as its first argument a string/(more complex a path to a filename). The input string/file contains several lines. Each line is one test case. Each line contains a test string. E.g.
 
@@ -21,7 +21,7 @@ banana
 am so uniqe
 ```
 
-### OUTPUT SAMPLE:
+## OUTPUT SAMPLE:
 
 For each set of input produce a single line of output which is the longest repeated substring. If there is none, print out the string NONE. E.g.
 
