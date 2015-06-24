@@ -44,4 +44,6 @@ bundle install
 rspec
 ```
 
-## Challenge from https://www.codeeval.com/open_challenges/53/, adapted by Cyril
+## Credits
+
+Challenge from https://www.codeeval.com/open_challenges/53/, adapted by cyrilkyburz
