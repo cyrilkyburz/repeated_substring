@@ -2,7 +2,7 @@
 
 # Basis
 
-Small ruby gem, where the tests are already set up.
+Small ruby app, where the tests are already set up.
 
 # Task
 
