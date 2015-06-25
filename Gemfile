@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in repeated_substring.gemspec
-gemspec
+ruby File.read('.ruby-version').strip
+
+gem 'rspec'

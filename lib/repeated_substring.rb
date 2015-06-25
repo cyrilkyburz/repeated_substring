@@ -1,9 +1,6 @@
-require "repeated_substring/version"
-
-module RepeatedSubstring
-  def example_method
+class RepeatedSubstring
+  def find_repeated_substring(string)
+    # TODO: implement the function
     1 + 2
   end
-
-  module_function :example_method
 end

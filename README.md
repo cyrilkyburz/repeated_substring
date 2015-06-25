@@ -35,6 +35,7 @@ NONE
 ```
 git clone https://github.com/cyrilkyburz/repeated_substring.git
 cd repeated_substring
+gem install bundler
 bundle install
 ```
 
